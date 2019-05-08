@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: b21ea76dfa72bdc4d9f2fd30c0f4942a
+timeCreated: 1530467425
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: atalana#2_001
+    100002: //RootNode
+    100004: Group_009
+    100006: Gruppe#28_001
+    100008: Gruppe#28_003
+    100010: Gruppe#28_005
+    100012: Gruppe#28_007
+    100014: Gruppe#32_001
+    100016: Gruppe#32_003
+    100018: Null_1_Cube18
+    100020: Null_1_Cylinder21
+    100022: Object030
+    100024: Object031
+    100026: Object032
+    100028: Object033
+    100030: Torus003
+    400000: atalana#2_001
+    400002: //RootNode
+    400004: Group_009
+    400006: Gruppe#28_001
+    400008: Gruppe#28_003
+    400010: Gruppe#28_005
+    400012: Gruppe#28_007
+    400014: Gruppe#32_001
+    400016: Gruppe#32_003
+    400018: Null_1_Cube18
+    400020: Null_1_Cylinder21
+    400022: Object030
+    400024: Object031
+    400026: Object032
+    400028: Object033
+    400030: Torus003
+    2100000: 02 - Default
+    2100002: 18 - Default
+    2100004: 16 - Default
+    2100006: Ground
+    2100008: Stone
+    2100010: 03 - Default
+    2100012: 12 - Default
+    2100014: OBJ flags_Mat_56
+    2100016: OBJ flags_Mat_1
+    2300000: atalana#2_001
+    2300002: Group_009
+    2300004: Gruppe#28_001
+    2300006: Gruppe#28_003
+    2300008: Gruppe#28_005
+    2300010: Gruppe#28_007
+    2300012: Gruppe#32_001
+    2300014: Gruppe#32_003
+    2300016: Null_1_Cube18
+    2300018: Null_1_Cylinder21
+    2300020: Object030
+    2300022: Object031
+    2300024: Object032
+    2300026: Object033
+    2300028: Torus003
+    3300000: atalana#2_001
+    3300002: Group_009
+    3300004: Gruppe#28_001
+    3300006: Gruppe#28_003
+    3300008: Gruppe#28_005
+    3300010: Gruppe#28_007
+    3300012: Gruppe#32_001
+    3300014: Gruppe#32_003
+    3300016: Null_1_Cube18
+    3300018: Null_1_Cylinder21
+    3300020: Object030
+    3300022: Object031
+    3300024: Object032
+    3300026: Object033
+    3300028: Torus003
+    4300000: atalana#2_001
+    4300002: Group_009
+    4300004: Gruppe#28_007
+    4300006: Gruppe#32_003
+    4300008: Torus003
+    4300010: Object030
+    4300012: Object031
+    4300014: Object032
+    4300016: Object033
+    4300018: Null_1_Cube18
+    4300020: Null_1_Cylinder21
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

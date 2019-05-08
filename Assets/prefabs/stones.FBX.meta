@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 620482eb0ac81fb488b41f3a37853551
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rocks_and_grass_003
+    100002: Rocks_and_grass_004
+    100004: Rocks_and_grass_1
+    100006: Stone_019
+    100008: Stone_021
+    100010: Stone_022
+    100012: Stone_024
+    100014: Stone_028
+    100016: Stone_029
+    100018: Stone_030
+    100020: Stone_031
+    100022: Stone_032
+    100024: Stone_033
+    100026: Stone_034
+    100028: Stone_035
+    100030: Stone_036
+    100032: Stone_037
+    100034: Stone_038
+    100036: Stone_039
+    100038: Stone_040
+    100040: Stone_041
+    100042: Stone_043
+    100044: Stone_044
+    100046: Stone_1
+    100048: Stone_3
+    100050: Stone_7
+    100052: //RootNode
+    100054: Torus004
+    400000: Rocks_and_grass_003
+    400002: Rocks_and_grass_004
+    400004: Rocks_and_grass_1
+    400006: Stone_019
+    400008: Stone_021
+    400010: Stone_022
+    400012: Stone_024
+    400014: Stone_028
+    400016: Stone_029
+    400018: Stone_030
+    400020: Stone_031
+    400022: Stone_032
+    400024: Stone_033
+    400026: Stone_034
+    400028: Stone_035
+    400030: Stone_036
+    400032: Stone_037
+    400034: Stone_038
+    400036: Stone_039
+    400038: Stone_040
+    400040: Stone_041
+    400042: Stone_043
+    400044: Stone_044
+    400046: Stone_1
+    400048: Stone_3
+    400050: Stone_7
+    400052: //RootNode
+    400054: Torus004
+    2100000: Stone
+    2100002: Foliage
+    2100004: Wood_3
+    2100006: No Name
+    2300000: Rocks_and_grass_003
+    2300002: Rocks_and_grass_004
+    2300004: Rocks_and_grass_1
+    2300006: Stone_019
+    2300008: Stone_021
+    2300010: Stone_022
+    2300012: Stone_024
+    2300014: Stone_028
+    2300016: Stone_029
+    2300018: Stone_030
+    2300020: Stone_031
+    2300022: Stone_032
+    2300024: Stone_033
+    2300026: Stone_034
+    2300028: Stone_035
+    2300030: Stone_036
+    2300032: Stone_037
+    2300034: Stone_038
+    2300036: Stone_039
+    2300038: Stone_040
+    2300040: Stone_041
+    2300042: Stone_043
+    2300044: Stone_044
+    2300046: Stone_1
+    2300048: Stone_3
+    2300050: Stone_7
+    2300052: Torus004
+    3300000: Rocks_and_grass_003
+    3300002: Rocks_and_grass_004
+    3300004: Rocks_and_grass_1
+    3300006: Stone_019
+    3300008: Stone_021
+    3300010: Stone_022
+    3300012: Stone_024
+    3300014: Stone_028
+    3300016: Stone_029
+    3300018: Stone_030
+    3300020: Stone_031
+    3300022: Stone_032
+    3300024: Stone_033
+    3300026: Stone_034
+    3300028: Stone_035
+    3300030: Stone_036
+    3300032: Stone_037
+    3300034: Stone_038
+    3300036: Stone_039
+    3300038: Stone_040
+    3300040: Stone_041
+    3300042: Stone_043
+    3300044: Stone_044
+    3300046: Stone_1
+    3300048: Stone_3
+    3300050: Stone_7
+    3300052: Torus004
+    4300000: Rocks_and_grass_003
+    4300002: Rocks_and_grass_004
+    4300004: Stone_038
+    4300006: Stone_036
+    4300008: Stone_044
+    4300010: Stone_024
+    4300012: Stone_028
+    4300014: Stone_029
+    4300016: Stone_030
+    4300018: Stone_037
+    4300020: Stone_039
+    4300022: Stone_043
+    4300024: Stone_040
+    4300026: Stone_041
+    4300028: Stone_1
+    4300030: Stone_021
+    4300032: Stone_022
+    4300034: Stone_019
+    4300036: Stone_034
+    4300038: Rocks_and_grass_1
+    4300040: Stone_032
+    4300042: Stone_3
+    4300044: Stone_7
+    4300046: Stone_033
+    4300048: Stone_031
+    4300050: Stone_035
+    4300052: Torus004
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

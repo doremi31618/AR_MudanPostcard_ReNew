@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: e37387e82e9c3c640b7c40932cb2f264
+timeCreated: 1523260102
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone004
+    100010: Bone005
+    100012: Component#18_004
+    100014: Component#18_005
+    100016: Component#18_006
+    100018: Component#19_044
+    100020: Component#19_045
+    100022: Component#19_046
+    100024: Component#19_047
+    100026: flower005
+    100028: flower006
+    100030: flower007
+    100032: flower008
+    100034: flower009
+    100036: flower010
+    100038: flower011
+    100040: flower012
+    100042: flower013
+    100044: flower014
+    100046: flower1
+    100048: flower2
+    100050: flower3
+    100052: flower4
+    100054: grass004
+    100056: grass005
+    100058: grass006
+    100060: grass3
+    100062: IK Chain001
+    100064: Line016
+    100066: Line017
+    100068: Line018
+    100070: Object002
+    100072: Object003
+    100074: Object004
+    100076: Object005
+    100078: Object006
+    100080: Object007
+    100082: Object008
+    400000: //RootNode
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone004
+    400010: Bone005
+    400012: Component#18_004
+    400014: Component#18_005
+    400016: Component#18_006
+    400018: Component#19_044
+    400020: Component#19_045
+    400022: Component#19_046
+    400024: Component#19_047
+    400026: flower005
+    400028: flower006
+    400030: flower007
+    400032: flower008
+    400034: flower009
+    400036: flower010
+    400038: flower011
+    400040: flower012
+    400042: flower013
+    400044: flower014
+    400046: flower1
+    400048: flower2
+    400050: flower3
+    400052: flower4
+    400054: grass004
+    400056: grass005
+    400058: grass006
+    400060: grass3
+    400062: IK Chain001
+    400064: Line016
+    400066: Line017
+    400068: Line018
+    400070: Object002
+    400072: Object003
+    400074: Object004
+    400076: Object005
+    400078: Object006
+    400080: Object007
+    400082: Object008
+    2100000: 'Material #25'
+    2100002: 07 - Default
+    2100004: 'Material #141'
+    2100006: 02 - Default
+    2100008: 01 - Default
+    2100010: 08 - Default
+    2100012: No Name
+    2100014: 'Material #115'
+    2300000: Component#18_004
+    2300002: Component#18_005
+    2300004: Component#18_006
+    2300006: Component#19_044
+    2300008: Component#19_045
+    2300010: Component#19_046
+    2300012: Component#19_047
+    2300014: flower005
+    2300016: flower006
+    2300018: flower010
+    2300020: flower013
+    2300022: flower014
+    2300024: flower2
+    2300026: flower4
+    2300028: grass004
+    2300030: grass005
+    2300032: grass006
+    2300034: grass3
+    2300036: Line016
+    2300038: Line017
+    2300040: Line018
+    2300042: Object002
+    2300044: Object003
+    2300046: Object004
+    2300048: Object005
+    2300050: Object006
+    2300052: Object007
+    2300054: Object008
+    3300000: Component#18_004
+    3300002: Component#18_005
+    3300004: Component#18_006
+    3300006: Component#19_044
+    3300008: Component#19_045
+    3300010: Component#19_046
+    3300012: Component#19_047
+    3300014: flower005
+    3300016: flower006
+    3300018: flower010
+    3300020: flower013
+    3300022: flower014
+    3300024: flower2
+    3300026: flower4
+    3300028: grass004
+    3300030: grass005
+    3300032: grass006
+    3300034: grass3
+    3300036: Line016
+    3300038: Line017
+    3300040: Line018
+    3300042: Object002
+    3300044: Object003
+    3300046: Object004
+    3300048: Object005
+    3300050: Object006
+    3300052: Object007
+    3300054: Object008
+    4300000: grass3
+    4300002: flower2
+    4300004: flower4
+    4300006: Object002
+    4300008: Component#18_004
+    4300010: Line016
+    4300012: Object003
+    4300014: Component#19_044
+    4300016: grass004
+    4300018: grass005
+    4300020: flower005
+    4300022: grass006
+    4300024: flower006
+    4300026: Object004
+    4300028: Component#18_005
+    4300030: Line017
+    4300032: Component#19_045
+    4300034: Object005
+    4300036: Component#19_046
+    4300038: Object006
+    4300040: flower010
+    4300042: Component#18_006
+    4300044: Object007
+    4300046: Line018
+    4300048: Component#19_047
+    4300050: Object008
+    4300052: flower013
+    4300054: flower014
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: IK Chain001
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
